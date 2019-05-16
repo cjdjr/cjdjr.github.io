@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[UFLDL Tutorial 学习笔记]]></title>
+    <url>%2F2019%2F05%2F16%2FUFLDL_Tutorial%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%2F</url>
+    <content type="text"><![CDATA[Sparse AutoencoderVectorized implementation#Preprocessing: PCA and Whitening Softmax RegressionSelf-Taught Learning and Unsupervised Feature Learning#Building Deep Networks for Classification Linear Decoders with AutoencodersWorking with Large Images#Summary]]></content>
+      <categories>
+        <category>Deep Learing</category>
+      </categories>
+  </entry>
+  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2019%2F01%2F12%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment 中文测试测试]]></content>
